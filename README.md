@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Singh</h1>
 <h3 align="center">A passionate Java Full Stack Web developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVrMWRoM3V6bjFkZ3UxbXZ0Z3ZxN20yMHR4bHM3MWx3MDhjbmk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantsingh97&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantsingh97" /> </p>
 
