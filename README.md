@@ -1,4 +1,4 @@
-<img src="https://s7280.pcdn.co/wp-content/uploads/2017/09/JavaDeveloperRolesandResponsibilities_Final.jpg.optimal.jpg" align="center" width="1000"/>
+<img src="https://s7280.pcdn.co/wp-content/uploads/2017/09/JavaDeveloperRolesandResponsibilities_Final.jpg.optimal.jpg" align="center" width="1000" height="400"/>
 <h1 align="center">Hi 👋, I'm RAVI KANT SINGH</h1>
 <h3 align="center">A passionate Java Full Stack Web developer from India.</h3>
 <!---<img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">--!>
